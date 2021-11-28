@@ -5,14 +5,14 @@
     app:startDestination="@id/storeFragment">
     <fragment
         android:id="@+id/storeFragment"
-        android:name="com.aditiaryohandoko.ugd_lib_x_yyyyy.view.fragments.StoreFragment"
+        android:name="com.aditiaryohandoko.ugd_lib_a_10181.view.fragments.StoreFragment"
         android:label="Store" />
     <fragment
         android:id="@+id/cartFragment"
-        android:name="com.aditiaryohandoko.ugd_lib_x_yyyyy.view.fragments.CartFragment"
+        android:name="com.aditiaryohandoko.ugd_lib_a_10181.view.fragments.CartFragment"
         android:label="Cart" />
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.aditiaryohandoko.ugd_lib_x_yyyyy.view.fragments.ProfileFragment"
+        android:name="com.aditiaryohandoko.ugd_lib_a_10181.view.fragments.ProfileFragment"
         android:label="Profile" />
 </navigation>

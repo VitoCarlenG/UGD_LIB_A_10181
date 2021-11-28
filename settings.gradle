@@ -9,5 +9,5 @@ dependencyResolutionManagement {
         maven { url "https://jitpack.io" }
     }
 }
-rootProject.name = "UGD_LIB_X_YYYYY"
+rootProject.name = "UGD_LIB_A_10181"
 include ':app'

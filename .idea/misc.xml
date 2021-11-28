@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/activity_main.xml" value="0.11018518518518519" />
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/adapter_card_game.xml" value="0.1" />
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/adapter_cart.xml" value="0.25" />
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/fragment_description_dialog.xml" value="0.1334853090172239" />
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/IPU/S5/Week 13/Pemrograman Berbasis Platform/Tugas/UGD_LIB_A_10181/app/src/main/res/layout/fragment_store.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

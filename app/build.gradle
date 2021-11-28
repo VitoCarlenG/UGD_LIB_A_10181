@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.aditiaryohandoko.ugd_lib_x_yyyyy"
+        applicationId "com.aditiaryohandoko.ugd_lib_a_10181"
         minSdk 26
         targetSdk 31
         versionCode 1
